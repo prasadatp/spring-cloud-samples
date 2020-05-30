@@ -1,0 +1,7 @@
+my:
+   greeting: Hello prasad from config server
+   list: Prasad,Sasi,Sri,Nakkalakunta
+db:
+  url: connection-string-config-server
+  host: 127.1.1.1
+  port: 1100
